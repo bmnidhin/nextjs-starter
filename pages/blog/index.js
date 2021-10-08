@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import 'tailwindcss/tailwind.css'
 
 export default function Home() {
   return (
@@ -11,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">Blog Page</a>
         </h1>
 
         <p className="description">
